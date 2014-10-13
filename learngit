@@ -1,0 +1,13 @@
+[1mdiff --git a/booklist.jsp b/booklist.jsp[m
+[1mindex cb36285..e29cf39 100644[m
+[1m--- a/booklist.jsp[m
+[1m+++ b/booklist.jsp[m
+[36m@@ -12,7 +12,7 @@[m
+ 		<h2>[m
+ 			<font color=black>图书管理系统 </font>[m
+ 		</h2>[m
+[31m-		<input type="button" value="返回首页"[m
+[32m+[m		[32m<input type="button" value="返回"[m
+ 					onclick="{window.location.href='index.jsp';}"/>[m
+ 	<table border="1" align="center">[m
+ 		<tr>[m

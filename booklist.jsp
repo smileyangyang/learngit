@@ -12,7 +12,7 @@
 		<h2>
 			<font color=black>图书管理系统 </font>
 		</h2>
-		<input type="button" value="返回首页"
+		<input type="button" value="返回"
 					onclick="{window.location.href='index.jsp';}"/>
 	<table border="1" align="center">
 		<tr>

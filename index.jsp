@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>图书管理系统</title>
-<title>图书管理系统</title>
+<title>图书管理</title>
 </head>
 <body>
 	<center>
